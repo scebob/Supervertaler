@@ -1,4 +1,4 @@
-# --- Supervertaler (v10.4) - Multi-LLM AI-powered Translator & Proofreader with DOCX Change References ---
+# --- Supervertaler (v2.0.0) - Multi-LLM AI-powered Translator & Proofreader with DOCX Change References ---
 import tkinter as tk
 from tkinter import filedialog, scrolledtext, messagebox, ttk
 import threading
