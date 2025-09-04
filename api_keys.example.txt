@@ -1,0 +1,11 @@
+# API Keys Configuration
+# Remove the # to uncomment
+
+# Claude API Key for Anthropic models  
+claude = [INSERT API KEY HERE, WITHOUT BRACKETS]
+
+# Google API Key for Gemini models
+google = [INSERT API KEY HERE, WITHOUT BRACKETS]
+
+# OpenAI API Key for OpenAI models
+openai = [INSERT API KEY HERE, WITHOUT BRACKETS]
