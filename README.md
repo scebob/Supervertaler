@@ -1,4 +1,4 @@
-# Supervertaler (v10.3)
+# Supervertaler (v2.0.0)
 Multicontextual AI-powered Translator &amp; Proofreader (currently supports Gemini, Claude and OpenAI models via their APIs)
 
 ![Supervertaler_v10 3 (with source code)](https://github.com/user-attachments/assets/223ad666-bc79-4b88-a7b1-511a7f5d3d98)
